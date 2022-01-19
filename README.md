@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World, Hell World 👋
+
+I'm Sehui, a web and HTML5 game developer from South Korea.
 
 <!--
 **idpokute/idpokute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
